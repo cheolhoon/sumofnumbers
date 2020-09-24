@@ -38,4 +38,3 @@ function sumTheSimpleWay(nums) {
 }
 
 console.log(sumTheSimpleWay(testNums));
-
